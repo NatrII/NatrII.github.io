@@ -1,0 +1,13 @@
+div {
+  text-align: center;
+  margin: 30vh auto;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 50px;
+  width: max-content;
+  background-color: yellow;
+}
+
+body {
+  background-color: black;
+}
